@@ -10,4 +10,4 @@ done
 ```
 ![pic](./picture/shell/a.jpeg)
 
-
+![pic](./picture/shell/b.jpg)
