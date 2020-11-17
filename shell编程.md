@@ -8,3 +8,6 @@ do
     echo $((i+3))
 done
 ```
+![pic](./picture/shell/a.jpeg)
+
+
